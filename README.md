@@ -1,2 +1,2 @@
 # PYTHON-PROJECTS
- All projects in python
+ All python projects
